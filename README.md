@@ -18,7 +18,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/cybersecurity-awareness.git
+   git clone https://github.com/n1n3Line/cybersecurity-awareness.git
    ```
 
 2. **Navigate to the project directory**:
